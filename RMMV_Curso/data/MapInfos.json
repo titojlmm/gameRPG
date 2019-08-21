@@ -1,5 +1,9 @@
 [
 null,
-{"id":1,"expanded":true,"name":"Map1_Home","order":1,"parentId":0,"scrollX":819,"scrollY":481},
-{"id":2,"expanded":false,"name":"Map2_Second Area","order":2,"parentId":1,"scrollX":819,"scrollY":481}
+{"id":1,"expanded":true,"name":"Map1_Home","order":1,"parentId":0,"scrollX":1638,"scrollY":962},
+{"id":2,"expanded":false,"name":"Map2_Second Area","order":2,"parentId":0,"scrollX":1638,"scrollY":962},
+{"id":3,"expanded":true,"name":"World Map","order":3,"parentId":0,"scrollX":2558,"scrollY":4066},
+{"id":4,"expanded":true,"name":"Seaside Fishing Village","order":4,"parentId":3,"scrollX":1638,"scrollY":962},
+{"id":5,"expanded":true,"name":"Stone Cave","order":6,"parentId":3,"scrollX":2558,"scrollY":946},
+{"id":6,"expanded":true,"name":"Seaside Interiors","order":5,"parentId":4,"scrollX":3124,"scrollY":1310}
 ]
