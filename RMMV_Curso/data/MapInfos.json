@@ -1,9 +1,12 @@
 [
 null,
-{"id":1,"expanded":true,"name":"Map1_Home","order":1,"parentId":0,"scrollX":1638,"scrollY":962},
-{"id":2,"expanded":false,"name":"Map2_Second Area","order":2,"parentId":0,"scrollX":1638,"scrollY":962},
-{"id":3,"expanded":true,"name":"World Map","order":3,"parentId":0,"scrollX":5098,"scrollY":1310},
-{"id":4,"expanded":true,"name":"Seaside Fishing Village","order":4,"parentId":3,"scrollX":1638,"scrollY":962},
-{"id":5,"expanded":true,"name":"Stone Cave","order":6,"parentId":3,"scrollX":1638,"scrollY":946},
-{"id":6,"expanded":true,"name":"Seaside Interiors","order":5,"parentId":4,"scrollX":1622,"scrollY":1278}
+{"id":1,"expanded":true,"name":"Map1_Home","order":1,"parentId":0,"scrollX":546,"scrollY":320.6666666666667},
+{"id":2,"expanded":false,"name":"Map2_Second Area","order":2,"parentId":0,"scrollX":832,"scrollY":640},
+{"id":3,"expanded":true,"name":"World Map","order":3,"parentId":0,"scrollX":3831.428571428571,"scrollY":4270.285714285714},
+{"id":4,"expanded":true,"name":"Seaside Fishing Village","order":4,"parentId":3,"scrollX":1379.3333333333333,"scrollY":1363.3333333333333},
+{"id":5,"expanded":true,"name":"Stone Cave","order":6,"parentId":3,"scrollX":3605,"scrollY":946},
+{"id":6,"expanded":true,"name":"Seaside Interiors","order":5,"parentId":4,"scrollX":2184,"scrollY":1261.3333333333333},
+{"id":7,"expanded":true,"name":"Dark Tower Entrance","order":7,"parentId":3,"scrollX":1390.2857142857142,"scrollY":1095.4285714285713},
+{"id":8,"expanded":false,"name":"Dark Tower 1F","order":8,"parentId":7,"scrollX":1390.2857142857142,"scrollY":836.5714285714286},
+{"id":9,"expanded":false,"name":"Dark Tower 2F","order":9,"parentId":7,"scrollX":1404,"scrollY":824.5714285714286}
 ]
