@@ -1,0 +1,12 @@
+[
+null,
+{"id":1,"expanded":false,"name":"Ciudad: Eagle's Crossing","order":2,"parentId":0,"scrollX":1941,"scrollY":1313},
+{"id":2,"expanded":false,"name":"Tienda de equipo","order":3,"parentId":1,"scrollX":1941,"scrollY":1313},
+{"id":3,"expanded":false,"name":"Posada","order":4,"parentId":1,"scrollX":1164.6,"scrollY":787.8},
+{"id":4,"expanded":false,"name":"Tienda de magia","order":5,"parentId":1,"scrollX":1164.6,"scrollY":787.8},
+{"id":5,"expanded":false,"name":"Load Map","order":1,"parentId":0,"scrollX":1941,"scrollY":1313},
+{"id":6,"expanded":false,"name":"Nivel1: Catacumbas superiores","order":6,"parentId":0,"scrollX":1104,"scrollY":912},
+{"id":7,"expanded":false,"name":"Nivel 2: Catacumbas inferiores","order":7,"parentId":0,"scrollX":1942,"scrollY":1616},
+{"id":8,"expanded":false,"name":"Nivel 3: Cuevas","order":8,"parentId":0,"scrollX":1942,"scrollY":1314},
+{"id":9,"expanded":false,"name":"Nivel 4: Bosque de las hadas (oeste)","order":9,"parentId":0,"scrollX":1941,"scrollY":1313}
+]
